@@ -22,3 +22,4 @@ Install required dependencies first:
 
 ```bash
 sudo pacman -S python pywal feh kitty ranger mpv zsh
+
