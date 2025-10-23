@@ -10,7 +10,7 @@ featuring <b>one-command theme switching</b> across multiple applications.
 
 - 🎨 **Wallpaper-based theming** using Pywal  
 - 🧩 **KDE + Terminal + Spotify** theme synchronization  
-- ⚡ **Battery automation** (switch at 60% / 100%)  
+- ⚡ **Battery automation** (switch at 60% / 100%)  works only on lenovo ideapad gaming 3 series laptops 
 - 🧠 **Lightweight setup** — minimal dependencies  
 - 💾 **Script-based configuration** for easy setup & updates  
 
