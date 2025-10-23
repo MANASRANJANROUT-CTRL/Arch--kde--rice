@@ -22,10 +22,3 @@ Install required dependencies first:
 
 ```bash
 sudo pacman -S python pywal feh kitty ranger mpv zsh
-
-## 🚀 Installation
-
-To install Spicetify CLI, run:
-
-```bash
-curl -fsSL https://raw.githubusercontent.com/spicetify/spicetify-cli/master/install.sh | sh
